@@ -13,10 +13,10 @@ for fileName in os.listdir(pathFolder):
 		fileHtml = pathFolder + fileName
 		searchfile = open(fileHtml, "r", encoding = "ISO8859-1")
 
-	for line in searchfile:
-		if keyword.casefold() in line.casefold():
-		# casefold to ignore upper and lower case
-			i = i+1
+		for line in searchfile:
+			if keyword.casefold() in line.casefold():
+			# casefold to ignore upper and lower case
+				i = i+1
 		beautifulOutput = fileHtml + '_' + keyword + '_' + str(i)
 		print(beautifulOutput)
 		searchfile.close()
