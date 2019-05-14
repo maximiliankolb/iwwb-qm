@@ -17,6 +17,6 @@ for fileName in os.listdir(pathFolder):
 			if keyword.casefold() in line.casefold():
 			# casefold to ignore upper and lower case
 				i = i+1
-		beautifulOutput = fileHtml + '_' + keyword + '_' + str(i)
+		beautifulOutput = fileHtml + '|' + keyword + '|' + str(i)
 		print(beautifulOutput)
 		searchfile.close()
