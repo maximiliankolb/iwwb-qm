@@ -3,7 +3,7 @@
 
 import os
 
-keywords = ['Digitalisierung', 'Datenschutz', 'DSGVO', 'BWL', 'Finanz', 'Personal', 'EDV', 'Software', 'Betriebsrat', 'Betriebsräte', 'Arbeit 4.0', 'Industrie 4.0', 'Geschäftsführer', 'Führungskraft', 'Führungskräfte', 'Fachkraft', 'Fachkräfte']
+keywords = ['Geschäftsführung', 'Geschäftsführer', 'Chef', 'Vorstand', 'Führungskraft', 'Führungskräfte', 'Geschäftsleitung', 'Unternehmen', 'Fachkraft', 'Fachkräfte', 'Facharbeiter', 'Mitarbeiter', 'Personal', 'Berufstätige', 'Betriebsrat', 'Betriebsräte', 'Mitbestimmung', 'Gewerkschaft', 'BWL', 'Finanz', 'Ökonomie', 'Pflege', 'Gesundheit', 'Krankenhaus', 'Digitalisierung', 'Industrie 4.0', 'Arbeit 4.0', 'Arbeiten 4.0', 'agil', 'EDV', 'Software', 'Office', 'Datenschutz', 'DSGVO', 'Patientendaten']
 
 pathFolder = 'iwwb/'
 
