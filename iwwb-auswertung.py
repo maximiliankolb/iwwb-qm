@@ -19,7 +19,7 @@ for fileName in os.listdir(pathFolder):
 				i = i+1
 		if i >= 5:
 			beautifulOutput = fileHtml + '|' + keyword + '|' + str(i)
-			print(beautifulOutput[25:])
+			print(beautifulOutput)
 		else:
 			continue
 		searchfile.close()
