@@ -1,4 +1,4 @@
-# parse json file to retrieve qm & download individual results to iwwb/
+# parse json file to retrieve qm & download individual results to iwwb-qm/
 # 2019-05-13 by maximilian
 
 import urllib.request
@@ -7,7 +7,7 @@ import json
 import time
 
 pathJson = 'iwwb-source.json'
-pathFolder = 'iwwb/'
+pathFolder = 'iwwb-qm/'
 
 json_file = open(pathJson, 'r')
 json_file_content = json_file.read()
