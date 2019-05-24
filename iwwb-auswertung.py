@@ -1,4 +1,4 @@
-# search files in iwwb/ for keywords
+# search files in iwwb-qm/ for keywords
 # 2019-05-24 by maximilian
 
 import os
