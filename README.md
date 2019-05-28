@@ -1,2 +1,2 @@
 # iwwb-qm
-Auswertung der Qualifikationsmaßnahmen der iwwb.de-Datenbank
+Auswertung der Qualifizierungsmaßnahmen der iwwb.de-Datenbank
